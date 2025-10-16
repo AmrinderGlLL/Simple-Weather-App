@@ -47,7 +47,7 @@ You can find it here: https://open-meteo.com/
 
 ⸻
 
-**o Do (Homework)**
+**To Do (Homework)**
 
 Update the app so that it also shows a 10-day temperature forecast instead of just the current weather.
 
@@ -59,3 +59,22 @@ Change your code so it displays something like this on the page:
 …
 
 You can design how it looks however you want just make sure the website shows 10 day's temp data on it.
+
+
+
+How to clone
+	1.	Open your terminal.
+	2.	Go to the folder where you want to save this project. For example:
+cd Desktop
+	3.	Copy this command and run it:
+git clone https://github.com/AmrinderGlLL/Simple-Weather-App.git
+	4.	After it’s done, move into the project folder:
+cd Simple-Weather-App
+	5.	Run this to install everything the project needs:
+npm install
+This will create a node_modules folder automatically. You don’t need to touch or download anything else.
+	6.	Now start the server by typing:
+node index.js
+	7.	Open your web browser and go to:
+http://localhost:3000
+
