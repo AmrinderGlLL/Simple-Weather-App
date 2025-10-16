@@ -108,7 +108,3 @@ Steps / hints:
    ```
    http://localhost:3000
    ```
-
----
-
-Feel free to implement the 10‑day forecast using Open‑Meteo's daily forecast parameters and update the frontend to display the results.
