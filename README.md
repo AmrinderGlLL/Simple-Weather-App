@@ -60,7 +60,7 @@ weather-app/
 
 ## **API used**
 
-This project uses the Open‑Meteo API for all weather data: https://open-meteo.com/
+This project uses the Open‑Meteo API for all weather data: [https://open-meteo.com/](https://open-meteo.com/en/docs/gfs-api)
 
 ---
 
